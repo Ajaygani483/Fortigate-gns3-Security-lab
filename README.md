@@ -8,13 +8,13 @@ I'm keeping this honest rather than polished: some labs below are fully tested w
 
 | # | Lab | What it covers |
 |---|---|---|
-| 01 | [High Availability] | Active-Passive FortiGate clustering, failover |
-| 02 | [MAC Address Filtering](./02-Mac-Address-Filtering/) | Restricting a policy to one device by MAC |
-| 03 | [Central NAT / DMZ](./03-Central-NAT-DMZ/) | Publishing a DMZ server with a static VIP |
-| 04 | [DHCP Server + Reservation](./04-DHCP-Server-Reservations/) | FortiGate as DHCP server, one fixed lease |
-| 05 | [DHCP Relay](./05-DHCP-Relay-Agent/) | Forwarding DHCP across a routed boundary |
-| 06 | [OSPF Routing](./06-OSPF-Routing-LAN-DMZ/) | Dynamic routing through the FortiGate |
-| 07 | [Site-to-Site IPsec VPN](./07-Site-to-Site-IPsec-VPN/) | Encrypted tunnel between two sites |
+| 01 | High Availability | Active-Passive FortiGate clustering, failover |
+| 02 | MAC Address Filtering | Restricting a policy to one device by MAC |
+| 03 | Central NAT / DMZ| Publishing a DMZ server with a static VIP |
+| 04 | DHCP Server + Reservation | FortiGate as DHCP server, one fixed lease |
+| 05 | DHCP Relay | Forwarding DHCP across a routed boundary |
+| 06 | OSPF Routing | Dynamic routing through the FortiGate |
+| 07 | Site-to-Site IPsec VPN | Encrypted tunnel between two sites |
 
 ## Background
 
